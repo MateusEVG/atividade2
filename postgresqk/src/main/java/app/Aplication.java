@@ -55,6 +55,8 @@ public class Aplication {
 				carro.setCor("branco");
 				carroDAO.update(carro); // does not work
 				break;
+			case 5 : 
+			    break;
 
 			default:
 				System.out.println("Valor Errado");
